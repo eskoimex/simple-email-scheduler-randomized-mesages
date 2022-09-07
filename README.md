@@ -25,7 +25,7 @@ Email Sender -
 Ensure you have Redis installed and running
 
 ```sh
-Here is the link to insatall Redis  https://github.com/microsoftarchive/redis/releases
+Here is the link to install Redis  https://github.com/microsoftarchive/redis/releases
 ```
 
 Install Dependencies
