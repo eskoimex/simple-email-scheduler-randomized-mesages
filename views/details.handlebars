@@ -1,0 +1,8 @@
+<ul class="list-group col-6 mb-2 mt-3">
+  <li class="list-group-item"><strong>Name: </strong>{{user.fullname}}</li>
+  <li class="list-group-item"><strong>Email: </strong>{{user.email}}</li>
+</ul>
+<form method="POST" action="/user/delete/{{user.id}}?_method=DELETE">
+ <a class="btn btn-default pull-left mt-10" href="/user/search">Back</a>
+  <input type="submit" class="btn btn-danger pull-right" value="Delete">
+</form>
