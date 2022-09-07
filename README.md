@@ -2,25 +2,31 @@
 Cope Notes Engineering Exercise
 
 # Features
-Backend Language- 
+Backend Language
 ```sh
 NodeJs on Express Server
 ```
-Frontend Engine -
+Frontend Engine 
 ```sh
  Express-Handlebars
 ```
-Frontend Language-
+Frontend Language
 ```sh
  Bootstrap/HTML/CSS
 ```
-Email Sender -
+Email Sender 
 ```sh
  Sendgrid
 ```
 
+In-Memory Database 
+```sh
+ Redis
+```
 
-## Usage
+
+
+## Usage / Instructions on how to run the project
 
 Ensure you have Redis installed and running
 
