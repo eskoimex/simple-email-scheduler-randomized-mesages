@@ -22,7 +22,11 @@ Email Sender -
 
 ## Usage
 
- Ensure you have Redis installed and running
+Ensure you have Redis installed and running
+
+```sh
+Here is the link to insatall Redis  https://github.com/microsoftarchive/redis/releases
+```
 
 Install Dependencies
 
