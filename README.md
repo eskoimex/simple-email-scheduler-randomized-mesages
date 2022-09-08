@@ -34,6 +34,12 @@ Ensure you have Redis installed and running
 Here is the link to install Redis  https://github.com/microsoftarchive/redis/releases
 ```
 
+Security / Secret Key
+
+```sh
+Download and add the .env file to the root of the project folder
+```
+
 Install Dependencies
 
 ```sh
