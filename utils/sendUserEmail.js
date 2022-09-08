@@ -26,7 +26,7 @@ function sendScheduledMessages(users_email, res, req) {
      /////SEND MESSAGE TO USERS//////////
       const msg = {
         from: {
-            "email": "frank.oneil@tezzasolutions.com",
+            "email": "samuel.ime@tezzasolutions.com",
             "name": "Cope Notes"
         },           
         to: users_email,
