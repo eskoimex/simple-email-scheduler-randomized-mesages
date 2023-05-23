@@ -1,6 +1,5 @@
 # simple-email-scheduler-randomized-mesages
-Cope Notes Engineering Exercise
-
+Cron Job
 # Features
 Backend Language
 ```sh
